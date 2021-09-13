@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Bug9519's Personal Site</title>
+
+<style>
+    body {
+     padding: 20px;
+     background-color: black;
+     color: lightyellow;
+     font-size: 20px;
+    }
+    .toggleTheme {
+     background-color: white;
+     color: black;
+    }
+</style>
+</head>
+
+<body>
+    <div>
+     <button onclick="themeToggler()">Toggle Theme</button>
+    </div>
+	 
+    <h1 align="center">Welcome.</h1>
+	<p align="center">This is Bug9519's Personal Site.</p>
+	<p align="center">There isn't much too see here at the moment, but I'll get around to changing that soonish...</p>
+	<p align="center">~Bug9519.</p>
+	<p align="center">Updated: 14/09/2021</p>
+	<p align="center"><img src="https://wallpapercave.com/wp/et6Yg9Z.jpg" alt="Pug puppy with tongue sticking out." width=600 height=500></p>
+
+    <script>
+     function themeToggler() {
+      var element = document.body;
+      element.classList.toggle("toggleTheme");
+     }
+    </script>
+</body>
+</html>
