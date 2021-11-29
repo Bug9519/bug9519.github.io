@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/bug9519
+--------------------------------------------------------------------
+ 
+I hereby claim:
+ 
+  * I am an admin of https://bug9519.github.io
+  * I am bug9519 (https://keybase.io/bug9519) on keybase.
+  * I have a public key ASCb7cfkEqcZOBOjRpidq3azzPQ2YpYMy22LyaZYY-MB5Ao
+ 
+To do so, I am signing this object:
+ 
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209bedc7e412a7193813a346989dab76b3ccf43662960ccb6d8bc9a65863e301e40a",
+      "host": "keybase.io",
+      "kid": "01209bedc7e412a7193813a346989dab76b3ccf43662960ccb6d8bc9a65863e301e40a",
+      "uid": "82f3ce5dbb32d5bc058da84087bf6519",
+      "username": "bug9519"
+    },
+    "merkle_root": {
+      "ctime": 1638162125,
+      "hash": "20607d203af11e3df0757c4d8de1e4fc8f4ab675c5b6f73cee6e4347994363e23cc67cdd90f7d5cd6e48ec5ca29151ac3a038503f18beb4282e2d78a49e4c29e",
+      "hash_meta": "611a284ac9b01a84431be846111cdae85934adb529a22fbb12038c0e45abebad",
+      "seqno": 21319906
+    },
+    "service": {
+      "entropy": "zSvk4kbxMGBYqS/+6MdJe6Ae",
+      "hostname": "bug9519.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.0"
+  },
+  "ctime": 1638162203,
+  "expire_in": 504576000,
+  "prev": "f5baf0ac82bc5898770a3ad3b566dc20014df84689d84ce98056fe86f0d4be82",
+  "seqno": 24,
+  "tag": "signature"
+}
+ 
+which yields the signature:
+ 
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgm+3H5BKnGTgTo0aYnat2s8z0NmKWDMtti8mmWGPjAeQKp3BheWxvYWTESpcCGMQg9brwrIK8WJh3CjrTtWbcIAFN+EaJ2EzpgFb+hvDUvoLEIIG9ptSwUr9q9JsAAFe7L8SUE0eeSM0RcFl2WrjlrUTsAgHCo3NpZ8RAuv6DeSX4xAlepg9APyq5MEn/ihDL4ihgLmuRYc0oLVjrRxg/W/K1K8SStkJ7OYWE5VXP6i6Wp/Q9BnQs3wwlDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEICwtqSnfUNOqieHr64tN13lz5YxqrZdYhNwgdSi8oup0o3RhZ80CAqd2ZXJzaW9uAQ==
+ 
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+ 
+View my publicly-auditable identity here: https://keybase.io/bug9519
+ 
+==================================================================
