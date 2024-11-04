@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <title>Bug9519's Personal Site.</title>
+
+<style>
+    body {
+     padding: 20px;
+     background-color: black;
+     color: lightyellow;
+     font-size: 20px;
+    }
+    .toggleTheme {
+     background-color: white;
+     color: black;
+    }
+</style>
+</head>
+
+<body>
+    <div>
+     <button onclick="themeToggler()">Theme</button>
+    </div>
+    
+    <p><h3 align="center">Bug's Website</h3></p>
+    <p>Just some games that I play and like.</p>
+  
+    <p><h5>Bconomy - Global MMO game playable on Web and Discord.</h5></p>
+    <p>Bconomy Discord Server: <a href="https://discord.gg/hcST6V7Eqn"></a></p>
+    <p>Bconomy Web: <a href="https://bconomy.net/play/"></a></p>
+    <p>Bconomy Discord Bot: <a href="https://discord.com/application-directory/766776316690432033"></a></p>
+
+    <script>
+     function themeToggler() {
+      var element = document.body;
+      element.classList.toggle("toggleTheme");
+     }
+    </script>
+</body>
+</html>
