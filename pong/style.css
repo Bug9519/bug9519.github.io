@@ -1,0 +1,35 @@
+body {
+    background: #222;
+    color: #f7f7f7;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#gameCanvas {
+    background: #111;
+    display: block;
+    margin: 0 auto;
+    border: 3px solid #44ff99;
+    box-shadow: 0 0 16px #44ff99AA;
+}
+
+#pause-indicator {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fffa;
+    font-size: 2.5em;
+    background: #000a;
+    padding: 15px 40px;
+    border-radius: 10px;
+    display: none;
+    pointer-events: none;
+}
